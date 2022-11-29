@@ -1,0 +1,4 @@
+C++ version used
+
+g++.exe (Rev1, Built by MSYS2 project) 11.3.0
+Copyright (C) 2021 Free Software Foundation, Inc.
